@@ -54,7 +54,8 @@ int main() {
  printf("la somme de ces deux nombres est egale a: %d\n",s);
  
  system("pause");
- return EXIT_SUCCESS;
+ return 1;
  
 
 }
+
